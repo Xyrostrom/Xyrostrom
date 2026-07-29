@@ -38,31 +38,15 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xyrostrom&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyrostrom&layout=compact&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xyrostrom&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Xyrostrom&theme=radical&no-frame=true&row=1&margin-w=15" />
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<a href="https://github.com/Xyrostrom/Xyrostrom">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/main/dark.svg">
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/main/light.svg" width="100%">
 </picture>
+</a>
+
 </div>
 
 <br/>
