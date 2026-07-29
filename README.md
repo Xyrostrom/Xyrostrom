@@ -41,10 +41,7 @@
 <div align="center">
 
 <a href="https://github.com/Xyrostrom/Xyrostrom">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/main/dark.svg">
-  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/main/light.svg" width="100%">
-</picture>
+<img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Xyrostrom/Xyrostrom/main/metrics.svg" width="100%">
 </a>
 
 </div>
